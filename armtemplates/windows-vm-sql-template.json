@@ -4,8 +4,8 @@
     "parameters": {
       "vmName": {
         "type": "string",
+        "defaultValue": "eqtvmscratch",
         "metadata": {
-          "defaultValue": "eqtvmscratch",
           "description": "This is the Virtual Machine Name."
         }
       },
