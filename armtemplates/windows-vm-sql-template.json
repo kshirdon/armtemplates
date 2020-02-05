@@ -5,6 +5,7 @@
       "vmName": {
         "type": "string",
         "metadata": {
+          "defaultValue": "eqtvmscratch",
           "description": "This is the Virtual Machine Name."
         }
       },
