@@ -6,7 +6,7 @@
         "type": "string",
         "defaultValue": "eqtvmscratch",
         "metadata": {
-          "description": "This is the Virtual Machine Name."
+          "description": "Name for the Virtual Machine."
         }
       },
       "vmSize": {
